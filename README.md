@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Parker Chen (@BHChen24).
 
-
+<img src="/assets/giphy.webp" alt="" style="float: right;" width="300px">
 <br>
 
 - 😄 I’m currently a 3rd-semester ![CPA](https://www.senecapolytechnic.ca/programs/fulltime/CPA.html) student at Seneca Polytechnic.
