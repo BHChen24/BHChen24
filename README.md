@@ -1,5 +1,9 @@
-# About Me
+![MasterHead](https://images.unsplash.com/photo-1662116137244-b7c6fdc1ac35?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+<br/>
+<br/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
+# About Me
 - 👋 Hi, I’m Parker Chen (@BHChen24)
 - 😄 I’m currently a 3rd-semester student in the Computer Programming and Analysis program at Seneca Polytechnic.
 - 🏆 My current GPA is 4.0/4.0.
