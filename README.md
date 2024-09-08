@@ -1,11 +1,10 @@
 ![MasterHead](https://images.unsplash.com/photo-1662116137244-b7c6fdc1ac35?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-## About Me
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+## 👋 Hi, I’m Parker Chen (@BHChen24).
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
 
 <br>
 
-- 👋 Hi, I’m Parker Chen (@BHChen24).
 - 😄 I’m currently a 3rd-semester ![CPA](https://www.senecapolytechnic.ca/programs/fulltime/CPA.html) student at Seneca Polytechnic.
 - 🏆 My current GPA is 4.0/4.0.
 - 👀 I’m interested in fintech, software development, and data analysis.
