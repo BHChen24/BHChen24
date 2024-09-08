@@ -5,15 +5,16 @@
 
 <br>
 
-- 👋 Hi, I’m Parker Chen (@BHChen24)
-- 😄 I’m currently a 3rd-semester student in the Computer Programming and Analysis program at Seneca Polytechnic.
+- 👋 Hi, I’m Parker Chen (@BHChen24).
+- 😄 I’m currently a 3rd-semester ![CPA](https://www.senecapolytechnic.ca/programs/fulltime/CPA.html) student at Seneca Polytechnic.
 - 🏆 My current GPA is 4.0/4.0.
 - 👀 I’m interested in fintech, software development, and data analysis.
-- 🌱 I’m currently learning C++, Python, and Rust, while also expanding my knowledge in front-end development and networking.
-- 📝 I regularly post my notes and thoughts on my personal blog: [My little DevBlog](parkerchenca.com)
-- 💞️ I’m looking to collaborate on projects related to financial quantification, data analysis, or microservices.
+- 🌱 I’m currently learning C++, Python, Rust, front-end, and networking.
+- 📝 I regularly post my notes on [My little DevBlog](parkerchenca.com).
+- 💞️ Open to collaborations in financial quantification, data analysis, and microservices.
 - ⚡ Fun fact:
 
+<br>
 
 ## 📫 Connect with me
 <br>
