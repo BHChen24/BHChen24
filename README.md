@@ -32,7 +32,6 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img align="left" alt="sqlserver" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img align="left" alt="pgdb" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/> </a>
 <a href="https://redis.io/" target="_blank"> <img align="" alt="redis" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg"/> </a>
-
 <a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="mongodb" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img align="left" alt="docker" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> </a>
