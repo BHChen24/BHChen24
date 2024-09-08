@@ -12,7 +12,7 @@
 ## 📫 Connect with me
 
 <a href='www.linkedin.com/in/parker-chen-ca'><img alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height='42px'/></a>
-
+<a href='kagiyama_green@proton.me'><img alt="email" src="/assets/email-svgrepo-com.svg" height='42px'/></a>
 
 ## 🔨 Languages and Tools
 
