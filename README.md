@@ -7,12 +7,12 @@
 - 🌱 I’m currently learning C++, Python, and Rust, while also expanding my knowledge in front-end development and networking.
 - 📝 I regularly post my notes and thoughts on my personal blog: [My little DevBlog](parkerchenca.com)
 - 💞️ I’m looking to collaborate on projects related to financial quantification, data analysis, or microservices.
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 
 ## 📫 Connect with me
 
 <a href='www.linkedin.com/in/parker-chen-ca'><img alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height='42px'/></a>
-<a href='kagiyama_green@proton.me'><img alt="email" src="/assets/email-svgrepo-com.svg" height='42px'/></a>
+<a href='mailto:kagiyama_green@proton.me'><img alt="email" src="/assets/email-svgrepo-com.svg" height='42px'/></a>
 
 ## 🔨 Languages and Tools
 
@@ -37,3 +37,11 @@
 <a href="https://www.docker.com/" target="_blank"> <img align="left" alt="docker" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img align="left" alt="jira" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"/> </a>
+
+<br>
+<br>
+
+## Github and Leetcode Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BHChen24)](https://github.com/anuraghazra/github-readme-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/laoue-u?theme=light&font=Ubuntu%20Mono&ext=heatmap&site=cn)
