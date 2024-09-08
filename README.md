@@ -15,6 +15,7 @@
 - ⚡ Fun fact:
 
 <br>
+<br>
 
 ## 📫 Connect with me
 <br>
@@ -47,5 +48,5 @@
 
 ## Github and Leetcode Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BHChen24&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BHChen24)](https://github.com/anuraghazra/github-readme-stats)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/laoue-u?theme=light&font=Ubuntu%20Mono&ext=heatmap&site=cn)
