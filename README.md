@@ -37,9 +37,6 @@
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img align="left" alt="jira" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"/> </a>
 
-<br>
-<br>
-
 ## Github and Leetcode Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BHChen24)](https://github.com/anuraghazra/github-readme-stats)
