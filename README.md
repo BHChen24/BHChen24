@@ -43,6 +43,10 @@
 <a href="https://www.docker.com/" target="_blank"> <img alt="docker" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img alt="git" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img alt="jira" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"/> </a>
+<a href="https://www.java.com/en/" target="_blank"> <img alt="java" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/> </a>
+<a href="https://docs.spring.io/spring-boot/index.html" target="_blank"> <img alt="spring" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/> </a>
+
+
 <br>
 
 ## Github and Leetcode Stats
