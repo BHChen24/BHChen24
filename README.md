@@ -8,9 +8,9 @@
 - 😄 I’m currently a 3rd-semester [CPA](https://www.senecapolytechnic.ca/programs/fulltime/CPA.html) student at Seneca Polytechnic.
 - 🏆 My current GPA is 4.0/4.0.
 - 👀 I’m interested in fintech, data analysis, and microservices.
-- 🌱 I’m currently learning **C++**, **Python**, **Rust** and front-end technologies.
+- 🌱 I’m currently learning **C++**, **Python**, **Java**, **Rust** and front-end technologies.
 - 📝 I regularly post my notes on [My little DevBlog](https://www.parkerchenca.com/).
-- 💞️ Ask me about anything finance and tech related, I am happy to help.
+- 💞️ Ask me about anything finance and tech-related, I am happy to help.
 - ⚡ Fun fact: I passed the [FRM](https://www.garp.org/frm) Level 1 exam in just one month — you can do it too!
 
 <br>
