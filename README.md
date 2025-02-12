@@ -5,8 +5,8 @@
 <img src="/assets/giphy.webp" alt="" align= "right" width="300px">
 <br>
 
-- 😄 I’m currently a 3rd-semester [CPA](https://www.senecapolytechnic.ca/programs/fulltime/CPA.html) student at Seneca Polytechnic.
-- 🏆 My current GPA is 4.0/4.0.
+- 😄 I’m currently a 4th-semester [CPA](https://www.senecapolytechnic.ca/programs/fulltime/CPA.html) student at Seneca Polytechnic.
+- 🏆 My current GPA is 3.9/4.0.
 - 👀 I’m interested in fintech, data analysis, and microservices.
 - 🌱 I’m currently learning **C++**, **Python**, **Java**, **Rust** and front-end technologies.
 - 📝 I regularly post my notes on [My little DevBlog](https://www.parkerchenca.com/).
