@@ -6,9 +6,9 @@
 <br>
 
 - 😄 I’m currently a 4th-semester [CPA](https://www.senecapolytechnic.ca/programs/fulltime/CPA.html) student at Seneca Polytechnic.
-- 🏆 My current GPA is 3.9/4.0.
+- 🏆 My current GPA is 4.0/4.0.
 - 👀 I’m interested in fintech, data analysis, and microservices.
-- 🌱 I’m currently learning **C++**, **Python**, **Java**, **Rust** and front-end technologies.
+- 🌱 I’m currently learning **C++**, **Python**, **Java**, **go**, **Rust** and front-end technologies.
 - 📝 I regularly post my notes on [My little DevBlog](https://www.parkerchenca.com/).
 - 💞️ Ask me about anything finance and tech-related, I am happy to help.
 - ⚡ Fun fact: I passed the [FRM](https://www.garp.org/frm) Level 1 exam in just one month — you can do it too!
@@ -52,4 +52,4 @@
 ## Github and Leetcode Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BHChen24&exclude_repo=NotionNext)](https://github.com/anuraghazra/github-readme-stats)
-![LeetCode Stats](https://leetcard.jacoblin.cool/laoue-u?theme=light&font=Ubuntu%20Mono&ext=heatmap&site=cn)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/laoue-u?theme=light&font=Ubuntu%20Mono&ext=heatmap&site=cn)](https://leetcard.jacoblin.cool/laoue-u?theme=light&font=Ubuntu%20Mono&site=cn)
