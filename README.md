@@ -9,14 +9,11 @@
 - 💼 8 months of co-op and part-time developer experience at a Toronto financial services firm, building internal React/TypeScript and Java/Spring Boot tools for wealth-management and loan-application workflows.
 - 🌱 Open source: a merged TypeScript fix in [Actual Budget](https://github.com/actualbudget/actual/pull/6331), merged pull requests across five other repositories, and a Coralogix integration, API tests and a maintainer-approved tooling cleanup contributed to [OpsiMate](https://github.com/OpsiMate/OpsiMate/pulls?q=is%3Apr+author%3ABHChen24).
 - 🤖 I build AI agents. My job-search agent reads postings, checks them against my own background and reports where I match and where the gaps are. It started as a course project, so that repo has to stay private, but I’m currently rewriting it as a public standalone tool.
-- 👀 I’m interested in fintech, data analysis, and microservices.
 - 🌱 I’m proficient in **C/C++**, **Python**, **Rust**, **Java**, **Go**, and front-end technologies like **TypeScript**.
 - 📝 I regularly post my notes on [My little DevBlog](https://www.parkerchenca.com/).
-- 💞️ Ask me about anything finance and tech-related, I am happy to help.
 - ⚡ Fun fact: I passed the [FRM](https://www.garp.org/frm) Level 1 exam in just one month — you can do it too!
 - 🚀 **Open to work:** full-stack and software developer roles in the GTA or remote across Canada. Available immediately.
 
-<br>
 <br>
 
 ## 📫 Connect with me
