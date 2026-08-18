@@ -5,27 +5,29 @@
 <img src="/assets/giphy.webp" alt="" align= "right" width="300px">
 <br>
 
-- 😄 I’m currently a last semester [CPA](https://www.senecapolytechnic.ca/programs/fulltime/CPA.html) student at Seneca Polytechnic.
-- 🏆 My current GPA is 4.0/4.0.
+- 🎓 I just finished my [Computer Programming & Analysis](https://www.senecapolytechnic.ca/programs/fulltime/CPA.html) diploma at Seneca Polytechnic with a 4.0/4.0 GPA. Before that I earned an MSc in Finance from the University of Southampton, graduating with Distinction.
+- 💼 8 months of co-op and part-time developer experience at a Toronto financial services firm, building internal React/TypeScript and Java/Spring Boot tools for wealth-management and loan-application workflows.
+- 🌱 Open source: a merged TypeScript fix in [Actual Budget](https://github.com/actualbudget/actual/pull/6331), merged pull requests across five other repositories, and a Coralogix integration, API tests and a maintainer-approved tooling cleanup contributed to [OpsiMate](https://github.com/OpsiMate/OpsiMate/pulls?q=is%3Apr+author%3ABHChen24).
+- 🤖 I build AI agents. My job-search agent reads postings, checks them against my own background and reports where I match and where the gaps are. It started as a course project, so that repo has to stay private, but I’m currently rewriting it as a public standalone tool.
 - 👀 I’m interested in fintech, data analysis, and microservices.
 - 🌱 I’m proficient in **C/C++**, **Python**, **Rust**, **Java**, **Go**, and front-end technologies like **TypeScript**.
 - 📝 I regularly post my notes on [My little DevBlog](https://www.parkerchenca.com/).
 - 💞️ Ask me about anything finance and tech-related, I am happy to help.
 - ⚡ Fun fact: I passed the [FRM](https://www.garp.org/frm) Level 1 exam in just one month — you can do it too!
+- 🚀 **Open to work:** full-stack and software developer roles in the GTA or remote across Canada. Available immediately.
 
 <br>
 <br>
 
 ## 📫 Connect with me
 <br>
-<a href='www.linkedin.com/in/parker-chen-ca'><img alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height='42px'/></a>
-<a href='mailto:kagiyama_green@proton.me'><img alt="email" src="/assets/email-svgrepo-com.svg" height='42px'/></a>
+<a href='https://www.linkedin.com/in/parker-chen-ca'><img alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height='42px'/></a>
+<a href='mailto:baihua.parker.chen@gmail.com'><img alt="email" src="/assets/email-svgrepo-com.svg" height='42px'/></a>
 
 ## 🔨 Languages and Tools
 <br>
 <a href="https://en.cppreference.com/w/c" target="_blank"> <img alt="spring" height="42px" src="https://icon.icepanel.io/Technology/svg/C.svg"/> </a>
 <a href="https://en.cppreference.com/w/" target="_blank"> <img alt="cpp" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> </a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img alt="spring" height="42px" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img alt="python" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> </a>
 <a href="https://www.rust-lang.org/" target="_blank"> <img alt="rust" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" /> </a>
 <a href="https://palletsprojects.com/projects/flask/" target="_blank"> <img alt="flask" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" /> </a>
@@ -36,6 +38,8 @@
 <a href="https://nodejs.org" target="_blank"><img alt="Node.js" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img alt="Typescirpt" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"></a>
+<a href="https://vitest.dev/" target="_blank"><img alt="Vitest" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg"></a>
+<a href="https://playwright.dev/" target="_blank"><img alt="Playwright" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"></a>
 <a href="https://www.linux.org/" target="_blank"> <img alt="linux" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/> </a>
 <a href="https://www.oracle.com/" target="_blank"> <img alt="oracle" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img alt="sqlserver" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"/> </a>
@@ -50,12 +54,5 @@
 <a href="https://docs.spring.io/spring-boot/index.html" target="_blank"> <img alt="spring" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img alt="docker" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/> </a>
 <a href="https://kubernetes.io/" target="_blank"> <img alt="spring" height="42px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"/> </a>
-<a href="https://n8n.io/" target="_blank"> <img alt="spring" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg"/> </a>
 <a href="https://azure.microsoft.com/en-ca" target="_blank"> <img alt="spring" height="42px" src="https://icon.icepanel.io/Technology/svg/Azure.svg"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img alt="spring" height="42px" src="https://icon.icepanel.io/Technology/svg/AWS.svg"/> </a>
-
-<br>
-
-## Github and Leetcode Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/laoue-u?theme=light&font=Ubuntu%20Mono&ext=heatmap&site=cn)](https://leetcard.jacoblin.cool/laoue-u?theme=light&font=Ubuntu%20Mono&site=cn)
